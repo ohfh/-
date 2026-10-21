@@ -1,0 +1,6 @@
+{
+  "name": "استوديو الوسائط القرآنية - Quran Media Studio",
+  "description": "منصة احترافية لتصميم وتصدير الوسائط القرآنية (فيديوهات ستوري وتيك توك، صور، صوتيات، ملفات ترجمة) بواجهة عربية زجاجية فاخرة وتزامن صوتي حي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
